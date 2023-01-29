@@ -1,8 +1,8 @@
 <h1 align="center">
   <img alt="cgapp logo" src="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg" width="224px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">SonyLIV</a> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/SonyLIV/main/sonyliv.m3u">SonyLIV</a> ⭐️
 </h1>
-<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
+<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/SonyLIV/main/sonyliv.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
 # ▶️ How To Play:
 
